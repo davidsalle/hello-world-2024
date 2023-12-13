@@ -1,11 +1,6 @@
 # hello-world-2024
 Un magnifique site web collaboratif
 
-**"Penguins were here."**
-i hate penguins
-**Elon Musk**
+## Introdution
 
-Moria Kart >> Never
-microbit < Moria Kart
-
-Moria Kart << star citizen
+Un site web collaboratif où chacun créé sa page.
