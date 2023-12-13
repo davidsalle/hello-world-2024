@@ -8,4 +8,4 @@ i hate penguins
 Moria Kart >> Never
 microbit < Moria Kart
 
-Moria Kart >> star citizen
+Moria Kart << star citizen
